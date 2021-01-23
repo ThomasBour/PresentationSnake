@@ -1,1 +1,1 @@
-# PresentationSnake
+# Presentation du Snake lors d'un workshop à Becode en novembre
